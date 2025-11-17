@@ -18,24 +18,6 @@ Este es un sencillo conversor de monedas escrito en Java que utiliza la API de [
 *   Librería Gson (para parsear JSON)
 *   Cuenta en [ExchangeRate-API](https://www.exchangerate-api.com/) para obtener una API key
 
-## Cómo usar
-
-1.  Clona este repositorio:
-
-    ```bash
-    git clone [URL_DE_TU_REPOSITORIO]
-    ```
-
-2.  Abre el proyecto en tu IDE (IntelliJ IDEA, Eclipse, etc.).
-
-3.  Agrega la librería Gson a tu proyecto.
-
-4.  Reemplaza `"TU_API_KEY"` con tu API key real en el archivo `ConversorMonedas.java`.
-
-5.  Compila y ejecuta el código.
-
-6.  Sigue las instrucciones en la consola para ingresar el monto a convertir y las monedas deseadas.
-
 ## Ejemplo de uso
 
 Bienvenido al Conversor de Monedas!
