@@ -1,7 +1,4 @@
 
-Julissa De frías <julissaivette15@gmail.com>
-4:13 PM (8 minutes ago)
-to me
 
 # Conversor de Monedas
 
